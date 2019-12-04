@@ -1,4 +1,4 @@
-// Amir Nadav ID 305707044
+// Amir Nadav
 #include <iostream>
 #include <fstream>
 #include "Database.h"
